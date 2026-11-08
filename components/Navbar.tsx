@@ -7,6 +7,7 @@ export default function Navbar() {
       <Link href="/hello/world">Hello world</Link>
       <Link href="/cv">CV</Link>
       <Link href="/login">Connexion</Link>
+      <Link href="/blog">Blog</Link>
     </nav>
   )
 }
