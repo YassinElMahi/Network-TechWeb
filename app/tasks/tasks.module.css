@@ -1,0 +1,21 @@
+.page {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 24px;
+  background: #eef2ff;
+  color: #1e293b;
+  border-radius: 16px;
+}
+
+.page input[type="text"],
+.page button {
+  padding: 8px 12px;
+  border-radius: 8px;
+}
+
+.page button {
+  background: #4338ca;
+  color: white;
+  border: 0;
+  cursor: pointer;
+}
