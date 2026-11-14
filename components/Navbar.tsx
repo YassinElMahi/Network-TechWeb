@@ -8,6 +8,9 @@ export default function Navbar() {
       <Link href="/cv">CV</Link>
       <Link href="/login">Connexion</Link>
       <Link href="/blog">Blog</Link>
+      <Link href="/blog/new">Nouvel article</Link>
+      <Link href="/register">Inscription</Link>
+      <Link href="/portfolio">Portfolio</Link>
     </nav>
   )
 }
